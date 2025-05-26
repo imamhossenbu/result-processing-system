@@ -37,7 +37,7 @@ $total_credits = 0;
 </head>
 
 <body class="bg-gray-100 p-8">
-    <h2 class="text-2xl font-bold mb-6">My Result Sheet</h2>
+    <h2 class="text-2xl font-bold mb-6 text-center">My Result Sheet</h2>
 
     <table class="w-full max-w-3xl mx-auto border-collapse border border-gray-300 bg-white">
         <thead>
